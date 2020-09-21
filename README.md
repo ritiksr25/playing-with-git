@@ -4,7 +4,7 @@
 
 This is a simple text
 
-[Click Here](htpps://github.com)
+[Click Here](https://github.com)
 
 > This blockquote!!
 
